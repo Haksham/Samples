@@ -1,2 +1,2 @@
 # Samples
-for git AEC class
+for git AEC classs
